@@ -17,4 +17,5 @@ https://public.tableau.com/views/CoronaVirusCasesandDeathsbyLocation/Dashboard1?
 Any suggestions and remarks about the dashboard are welcomed!
 
 In case of any concerns or doubts or guidance regarding the visualization, feel free to reach me at shrunali.paygude@gmail.com
-Happy analyzing!
+\n
+Happy analyzing! 😊
