@@ -15,3 +15,6 @@ And by the end of April, USA topped highest in terms of confirmed cases and deat
 To take a look at the interactive dashboard, you can follow the below link or the attached .twbx file in this repository.
 https://public.tableau.com/views/CoronaVirusCasesandDeathsbyLocation/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 Any suggestions and remarks about the dashboard are welcomed!
+
+In case of any concerns or doubts or guidance regarding the visualization, feel free to reach me at shrunali.paygude@gmail.com
+Happy analyzing!
