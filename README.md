@@ -12,4 +12,6 @@ And then by March 2020, we had 12983 Death 304580 Confirmed Cases. The top 10 co
 And by the end of April, USA topped highest in terms of confirmed cases and deaths.
 ![image](https://user-images.githubusercontent.com/47711486/132580033-7cd8aa71-594c-4d26-a504-79c6280c4916.png)
 
+To take a look at the interactive dashboard, you can follow the below link or the attached .twbx file in this repository.
+https://public.tableau.com/views/CoronaVirusCasesandDeathsbyLocation/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 Any suggestions and remarks about the dashboard are welcomed!
