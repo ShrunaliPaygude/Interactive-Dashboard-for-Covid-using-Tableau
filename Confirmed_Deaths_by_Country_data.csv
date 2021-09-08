@@ -1,0 +1,861 @@
+﻿Country_Region,Date,Cases
+Netherlands,1/22/2020,0
+China,1/22/2020,17
+Germany,1/22/2020,0
+Belgium,1/22/2020,0
+Iran,1/22/2020,0
+United Kingdom,1/22/2020,0
+France,1/22/2020,0
+Spain,1/22/2020,0
+Italy,1/22/2020,0
+US,1/22/2020,0
+Netherlands,1/23/2020,0
+China,1/23/2020,18
+Germany,1/23/2020,0
+Belgium,1/23/2020,0
+Iran,1/23/2020,0
+United Kingdom,1/23/2020,0
+France,1/23/2020,0
+Spain,1/23/2020,0
+Italy,1/23/2020,0
+US,1/23/2020,0
+Netherlands,1/24/2020,0
+China,1/24/2020,26
+Germany,1/24/2020,0
+Belgium,1/24/2020,0
+Iran,1/24/2020,0
+United Kingdom,1/24/2020,0
+France,1/24/2020,0
+Spain,1/24/2020,0
+Italy,1/24/2020,0
+US,1/24/2020,0
+Netherlands,1/25/2020,0
+China,1/25/2020,42
+Germany,1/25/2020,0
+Belgium,1/25/2020,0
+Iran,1/25/2020,0
+United Kingdom,1/25/2020,0
+France,1/25/2020,0
+Spain,1/25/2020,0
+Italy,1/25/2020,0
+US,1/25/2020,0
+Netherlands,1/26/2020,0
+China,1/26/2020,56
+Germany,1/26/2020,0
+Belgium,1/26/2020,0
+Iran,1/26/2020,0
+United Kingdom,1/26/2020,0
+France,1/26/2020,0
+Spain,1/26/2020,0
+Italy,1/26/2020,0
+US,1/26/2020,0
+Netherlands,1/27/2020,0
+China,1/27/2020,82
+Germany,1/27/2020,0
+Belgium,1/27/2020,0
+Iran,1/27/2020,0
+United Kingdom,1/27/2020,0
+France,1/27/2020,0
+Spain,1/27/2020,0
+Italy,1/27/2020,0
+US,1/27/2020,0
+Netherlands,1/28/2020,0
+China,1/28/2020,131
+Germany,1/28/2020,0
+Belgium,1/28/2020,0
+Iran,1/28/2020,0
+United Kingdom,1/28/2020,0
+France,1/28/2020,0
+Spain,1/28/2020,0
+Italy,1/28/2020,0
+US,1/28/2020,0
+Netherlands,1/29/2020,0
+China,1/29/2020,133
+Germany,1/29/2020,0
+Belgium,1/29/2020,0
+Iran,1/29/2020,0
+United Kingdom,1/29/2020,0
+France,1/29/2020,0
+Spain,1/29/2020,0
+Italy,1/29/2020,0
+US,1/29/2020,0
+Netherlands,1/30/2020,0
+China,1/30/2020,171
+Germany,1/30/2020,0
+Belgium,1/30/2020,0
+Iran,1/30/2020,0
+United Kingdom,1/30/2020,0
+France,1/30/2020,0
+Spain,1/30/2020,0
+Italy,1/30/2020,0
+US,1/30/2020,0
+Netherlands,1/31/2020,0
+China,1/31/2020,213
+Germany,1/31/2020,0
+Belgium,1/31/2020,0
+Iran,1/31/2020,0
+United Kingdom,1/31/2020,0
+France,1/31/2020,0
+Spain,1/31/2020,0
+Italy,1/31/2020,0
+US,1/31/2020,0
+Netherlands,2/1/2020,0
+China,2/1/2020,259
+Germany,2/1/2020,0
+Belgium,2/1/2020,0
+Iran,2/1/2020,0
+United Kingdom,2/1/2020,0
+France,2/1/2020,0
+Spain,2/1/2020,0
+Italy,2/1/2020,0
+US,2/1/2020,0
+Netherlands,2/2/2020,0
+China,2/2/2020,361
+Germany,2/2/2020,0
+Belgium,2/2/2020,0
+Iran,2/2/2020,0
+United Kingdom,2/2/2020,0
+France,2/2/2020,0
+Spain,2/2/2020,0
+Italy,2/2/2020,0
+US,2/2/2020,0
+Netherlands,2/3/2020,0
+China,2/3/2020,425
+Germany,2/3/2020,0
+Belgium,2/3/2020,0
+Iran,2/3/2020,0
+United Kingdom,2/3/2020,0
+France,2/3/2020,0
+Spain,2/3/2020,0
+Italy,2/3/2020,0
+US,2/3/2020,0
+Netherlands,2/4/2020,0
+China,2/4/2020,491
+Germany,2/4/2020,0
+Belgium,2/4/2020,0
+Iran,2/4/2020,0
+United Kingdom,2/4/2020,0
+France,2/4/2020,0
+Spain,2/4/2020,0
+Italy,2/4/2020,0
+US,2/4/2020,0
+Netherlands,2/5/2020,0
+China,2/5/2020,563
+Germany,2/5/2020,0
+Belgium,2/5/2020,0
+Iran,2/5/2020,0
+United Kingdom,2/5/2020,0
+France,2/5/2020,0
+Spain,2/5/2020,0
+Italy,2/5/2020,0
+US,2/5/2020,0
+Netherlands,2/6/2020,0
+China,2/6/2020,633
+Germany,2/6/2020,0
+Belgium,2/6/2020,0
+Iran,2/6/2020,0
+United Kingdom,2/6/2020,0
+France,2/6/2020,0
+Spain,2/6/2020,0
+Italy,2/6/2020,0
+US,2/6/2020,0
+Netherlands,2/7/2020,0
+China,2/7/2020,718
+Germany,2/7/2020,0
+Belgium,2/7/2020,0
+Iran,2/7/2020,0
+United Kingdom,2/7/2020,0
+France,2/7/2020,0
+Spain,2/7/2020,0
+Italy,2/7/2020,0
+US,2/7/2020,0
+Netherlands,2/8/2020,0
+China,2/8/2020,805
+Germany,2/8/2020,0
+Belgium,2/8/2020,0
+Iran,2/8/2020,0
+United Kingdom,2/8/2020,0
+France,2/8/2020,0
+Spain,2/8/2020,0
+Italy,2/8/2020,0
+US,2/8/2020,0
+Netherlands,2/9/2020,0
+China,2/9/2020,905
+Germany,2/9/2020,0
+Belgium,2/9/2020,0
+Iran,2/9/2020,0
+United Kingdom,2/9/2020,0
+France,2/9/2020,0
+Spain,2/9/2020,0
+Italy,2/9/2020,0
+US,2/9/2020,0
+Netherlands,2/10/2020,0
+China,2/10/2020,1012
+Germany,2/10/2020,0
+Belgium,2/10/2020,0
+Iran,2/10/2020,0
+United Kingdom,2/10/2020,0
+France,2/10/2020,0
+Spain,2/10/2020,0
+Italy,2/10/2020,0
+US,2/10/2020,0
+Netherlands,2/11/2020,0
+China,2/11/2020,1112
+Germany,2/11/2020,0
+Belgium,2/11/2020,0
+Iran,2/11/2020,0
+United Kingdom,2/11/2020,0
+France,2/11/2020,0
+Spain,2/11/2020,0
+Italy,2/11/2020,0
+US,2/11/2020,0
+Netherlands,2/12/2020,0
+China,2/12/2020,1117
+Germany,2/12/2020,0
+Belgium,2/12/2020,0
+Iran,2/12/2020,0
+United Kingdom,2/12/2020,0
+France,2/12/2020,0
+Spain,2/12/2020,0
+Italy,2/12/2020,0
+US,2/12/2020,0
+Netherlands,2/13/2020,0
+China,2/13/2020,1369
+Germany,2/13/2020,0
+Belgium,2/13/2020,0
+Iran,2/13/2020,0
+United Kingdom,2/13/2020,0
+France,2/13/2020,0
+Spain,2/13/2020,0
+Italy,2/13/2020,0
+US,2/13/2020,0
+Netherlands,2/14/2020,0
+China,2/14/2020,1521
+Germany,2/14/2020,0
+Belgium,2/14/2020,0
+Iran,2/14/2020,0
+United Kingdom,2/14/2020,0
+France,2/14/2020,0
+Spain,2/14/2020,0
+Italy,2/14/2020,0
+US,2/14/2020,0
+Netherlands,2/15/2020,0
+China,2/15/2020,1663
+Germany,2/15/2020,0
+Belgium,2/15/2020,0
+Iran,2/15/2020,0
+United Kingdom,2/15/2020,0
+France,2/15/2020,1
+Spain,2/15/2020,0
+Italy,2/15/2020,0
+US,2/15/2020,0
+Netherlands,2/16/2020,0
+China,2/16/2020,1766
+Germany,2/16/2020,0
+Belgium,2/16/2020,0
+Iran,2/16/2020,0
+United Kingdom,2/16/2020,0
+France,2/16/2020,1
+Spain,2/16/2020,0
+Italy,2/16/2020,0
+US,2/16/2020,0
+Netherlands,2/17/2020,0
+China,2/17/2020,1864
+Germany,2/17/2020,0
+Belgium,2/17/2020,0
+Iran,2/17/2020,0
+United Kingdom,2/17/2020,0
+France,2/17/2020,1
+Spain,2/17/2020,0
+Italy,2/17/2020,0
+US,2/17/2020,0
+Netherlands,2/18/2020,0
+China,2/18/2020,2003
+Germany,2/18/2020,0
+Belgium,2/18/2020,0
+Iran,2/18/2020,0
+United Kingdom,2/18/2020,0
+France,2/18/2020,1
+Spain,2/18/2020,0
+Italy,2/18/2020,0
+US,2/18/2020,0
+Netherlands,2/19/2020,0
+China,2/19/2020,2116
+Germany,2/19/2020,0
+Belgium,2/19/2020,0
+Iran,2/19/2020,2
+United Kingdom,2/19/2020,0
+France,2/19/2020,1
+Spain,2/19/2020,0
+Italy,2/19/2020,0
+US,2/19/2020,0
+Netherlands,2/20/2020,0
+China,2/20/2020,2238
+Germany,2/20/2020,0
+Belgium,2/20/2020,0
+Iran,2/20/2020,2
+United Kingdom,2/20/2020,0
+France,2/20/2020,1
+Spain,2/20/2020,0
+Italy,2/20/2020,0
+US,2/20/2020,0
+Netherlands,2/21/2020,0
+China,2/21/2020,2238
+Germany,2/21/2020,0
+Belgium,2/21/2020,0
+Iran,2/21/2020,4
+United Kingdom,2/21/2020,0
+France,2/21/2020,1
+Spain,2/21/2020,0
+Italy,2/21/2020,1
+US,2/21/2020,0
+Netherlands,2/22/2020,0
+China,2/22/2020,2443
+Germany,2/22/2020,0
+Belgium,2/22/2020,0
+Iran,2/22/2020,5
+United Kingdom,2/22/2020,0
+France,2/22/2020,1
+Spain,2/22/2020,0
+Italy,2/22/2020,2
+US,2/22/2020,0
+Netherlands,2/23/2020,0
+China,2/23/2020,2445
+Germany,2/23/2020,0
+Belgium,2/23/2020,0
+Iran,2/23/2020,8
+United Kingdom,2/23/2020,0
+France,2/23/2020,1
+Spain,2/23/2020,0
+Italy,2/23/2020,3
+US,2/23/2020,0
+Netherlands,2/24/2020,0
+China,2/24/2020,2595
+Germany,2/24/2020,0
+Belgium,2/24/2020,0
+Iran,2/24/2020,12
+United Kingdom,2/24/2020,0
+France,2/24/2020,1
+Spain,2/24/2020,0
+Italy,2/24/2020,7
+US,2/24/2020,0
+Netherlands,2/25/2020,0
+China,2/25/2020,2665
+Germany,2/25/2020,0
+Belgium,2/25/2020,0
+Iran,2/25/2020,16
+United Kingdom,2/25/2020,0
+France,2/25/2020,1
+Spain,2/25/2020,0
+Italy,2/25/2020,10
+US,2/25/2020,0
+Netherlands,2/26/2020,0
+China,2/26/2020,2717
+Germany,2/26/2020,0
+Belgium,2/26/2020,0
+Iran,2/26/2020,19
+United Kingdom,2/26/2020,0
+France,2/26/2020,2
+Spain,2/26/2020,0
+Italy,2/26/2020,12
+US,2/26/2020,0
+Netherlands,2/27/2020,0
+China,2/27/2020,2746
+Germany,2/27/2020,0
+Belgium,2/27/2020,0
+Iran,2/27/2020,26
+United Kingdom,2/27/2020,0
+France,2/27/2020,2
+Spain,2/27/2020,0
+Italy,2/27/2020,17
+US,2/27/2020,0
+Netherlands,2/28/2020,0
+China,2/28/2020,2790
+Germany,2/28/2020,0
+Belgium,2/28/2020,0
+Iran,2/28/2020,34
+United Kingdom,2/28/2020,0
+France,2/28/2020,2
+Spain,2/28/2020,0
+Italy,2/28/2020,21
+US,2/28/2020,0
+Netherlands,2/29/2020,0
+China,2/29/2020,2837
+Germany,2/29/2020,0
+Belgium,2/29/2020,0
+Iran,2/29/2020,43
+United Kingdom,2/29/2020,0
+France,2/29/2020,2
+Spain,2/29/2020,0
+Italy,2/29/2020,29
+US,2/29/2020,1
+Netherlands,3/1/2020,0
+China,3/1/2020,2872
+Germany,3/1/2020,0
+Belgium,3/1/2020,0
+Iran,3/1/2020,54
+United Kingdom,3/1/2020,0
+France,3/1/2020,2
+Spain,3/1/2020,0
+Italy,3/1/2020,34
+US,3/1/2020,1
+Netherlands,3/2/2020,0
+China,3/2/2020,2914
+Germany,3/2/2020,0
+Belgium,3/2/2020,0
+Iran,3/2/2020,66
+United Kingdom,3/2/2020,0
+France,3/2/2020,3
+Spain,3/2/2020,0
+Italy,3/2/2020,52
+US,3/2/2020,6
+Netherlands,3/3/2020,0
+China,3/3/2020,2947
+Germany,3/3/2020,0
+Belgium,3/3/2020,0
+Iran,3/3/2020,77
+United Kingdom,3/3/2020,0
+France,3/3/2020,4
+Spain,3/3/2020,1
+Italy,3/3/2020,79
+US,3/3/2020,7
+Netherlands,3/4/2020,0
+China,3/4/2020,2983
+Germany,3/4/2020,0
+Belgium,3/4/2020,0
+Iran,3/4/2020,92
+United Kingdom,3/4/2020,0
+France,3/4/2020,4
+Spain,3/4/2020,2
+Italy,3/4/2020,107
+US,3/4/2020,11
+Netherlands,3/5/2020,0
+China,3/5/2020,3015
+Germany,3/5/2020,0
+Belgium,3/5/2020,0
+Iran,3/5/2020,107
+United Kingdom,3/5/2020,1
+France,3/5/2020,6
+Spain,3/5/2020,3
+Italy,3/5/2020,148
+US,3/5/2020,12
+Netherlands,3/6/2020,1
+China,3/6/2020,3044
+Germany,3/6/2020,0
+Belgium,3/6/2020,0
+Iran,3/6/2020,124
+United Kingdom,3/6/2020,2
+France,3/6/2020,9
+Spain,3/6/2020,5
+Italy,3/6/2020,197
+US,3/6/2020,14
+Netherlands,3/7/2020,1
+China,3/7/2020,3072
+Germany,3/7/2020,0
+Belgium,3/7/2020,0
+Iran,3/7/2020,145
+United Kingdom,3/7/2020,2
+France,3/7/2020,11
+Spain,3/7/2020,10
+Italy,3/7/2020,233
+US,3/7/2020,17
+Netherlands,3/8/2020,3
+China,3/8/2020,3100
+Germany,3/8/2020,0
+Belgium,3/8/2020,0
+Iran,3/8/2020,194
+United Kingdom,3/8/2020,3
+France,3/8/2020,19
+Spain,3/8/2020,17
+Italy,3/8/2020,366
+US,3/8/2020,21
+Netherlands,3/9/2020,3
+China,3/9/2020,3123
+Germany,3/9/2020,2
+Belgium,3/9/2020,0
+Iran,3/9/2020,237
+United Kingdom,3/9/2020,4
+France,3/9/2020,19
+Spain,3/9/2020,28
+Italy,3/9/2020,463
+US,3/9/2020,22
+Netherlands,3/10/2020,4
+China,3/10/2020,3139
+Germany,3/10/2020,2
+Belgium,3/10/2020,0
+Iran,3/10/2020,291
+United Kingdom,3/10/2020,6
+France,3/10/2020,33
+Spain,3/10/2020,35
+Italy,3/10/2020,631
+US,3/10/2020,28
+Netherlands,3/11/2020,5
+China,3/11/2020,3161
+Germany,3/11/2020,3
+Belgium,3/11/2020,3
+Iran,3/11/2020,354
+United Kingdom,3/11/2020,8
+France,3/11/2020,48
+Spain,3/11/2020,54
+Italy,3/11/2020,827
+US,3/11/2020,32
+Netherlands,3/12/2020,5
+China,3/12/2020,3172
+Germany,3/12/2020,3
+Belgium,3/12/2020,3
+Iran,3/12/2020,429
+United Kingdom,3/12/2020,8
+France,3/12/2020,48
+Spain,3/12/2020,55
+Italy,3/12/2020,827
+US,3/12/2020,40
+Netherlands,3/13/2020,10
+China,3/13/2020,3180
+Germany,3/13/2020,7
+Belgium,3/13/2020,3
+Iran,3/13/2020,514
+United Kingdom,3/13/2020,8
+France,3/13/2020,79
+Spain,3/13/2020,133
+Italy,3/13/2020,1266
+US,3/13/2020,48
+Netherlands,3/14/2020,12
+China,3/14/2020,3193
+Germany,3/14/2020,9
+Belgium,3/14/2020,4
+Iran,3/14/2020,611
+United Kingdom,3/14/2020,21
+France,3/14/2020,91
+Spain,3/14/2020,195
+Italy,3/14/2020,1441
+US,3/14/2020,52
+Netherlands,3/15/2020,20
+China,3/15/2020,3203
+Germany,3/15/2020,11
+Belgium,3/15/2020,4
+Iran,3/15/2020,724
+United Kingdom,3/15/2020,21
+France,3/15/2020,91
+Spain,3/15/2020,289
+Italy,3/15/2020,1809
+US,3/15/2020,60
+Netherlands,3/16/2020,24
+China,3/16/2020,3217
+Germany,3/16/2020,17
+Belgium,3/16/2020,5
+Iran,3/16/2020,853
+United Kingdom,3/16/2020,56
+France,3/16/2020,149
+Spain,3/16/2020,342
+Italy,3/16/2020,2158
+US,3/16/2020,84
+Netherlands,3/17/2020,43
+China,3/17/2020,3230
+Germany,3/17/2020,24
+Belgium,3/17/2020,10
+Iran,3/17/2020,988
+United Kingdom,3/17/2020,56
+France,3/17/2020,149
+Spain,3/17/2020,533
+Italy,3/17/2020,2503
+US,3/17/2020,107
+Netherlands,3/18/2020,58
+China,3/18/2020,3241
+Germany,3/18/2020,28
+Belgium,3/18/2020,14
+Iran,3/18/2020,1135
+United Kingdom,3/18/2020,72
+France,3/18/2020,149
+Spain,3/18/2020,623
+Italy,3/18/2020,2978
+US,3/18/2020,143
+Netherlands,3/19/2020,77
+China,3/19/2020,3249
+Germany,3/19/2020,44
+Belgium,3/19/2020,21
+Iran,3/19/2020,1284
+United Kingdom,3/19/2020,138
+France,3/19/2020,244
+Spain,3/19/2020,830
+Italy,3/19/2020,3405
+US,3/19/2020,208
+Netherlands,3/20/2020,107
+China,3/20/2020,3253
+Germany,3/20/2020,67
+Belgium,3/20/2020,37
+Iran,3/20/2020,1433
+United Kingdom,3/20/2020,178
+France,3/20/2020,451
+Spain,3/20/2020,1043
+Italy,3/20/2020,4032
+US,3/20/2020,257
+Netherlands,3/21/2020,137
+China,3/21/2020,3259
+Germany,3/21/2020,84
+Belgium,3/21/2020,67
+Iran,3/21/2020,1556
+United Kingdom,3/21/2020,234
+France,3/21/2020,563
+Spain,3/21/2020,1375
+Italy,3/21/2020,4825
+US,3/21/2020,317
+Netherlands,3/22/2020,180
+China,3/22/2020,3274
+Germany,3/22/2020,94
+Belgium,3/22/2020,75
+Iran,3/22/2020,1685
+United Kingdom,3/22/2020,282
+France,3/22/2020,676
+Spain,3/22/2020,1772
+Italy,3/22/2020,5476
+US,3/22/2020,426
+Netherlands,3/23/2020,214
+China,3/23/2020,3274
+Germany,3/23/2020,123
+Belgium,3/23/2020,88
+Iran,3/23/2020,1812
+United Kingdom,3/23/2020,336
+France,3/23/2020,862
+Spain,3/23/2020,2311
+Italy,3/23/2020,6077
+US,3/23/2020,551
+Netherlands,3/24/2020,277
+China,3/24/2020,3281
+Germany,3/24/2020,157
+Belgium,3/24/2020,122
+Iran,3/24/2020,1934
+United Kingdom,3/24/2020,423
+France,3/24/2020,1102
+Spain,3/24/2020,2808
+Italy,3/24/2020,6820
+US,3/24/2020,705
+Netherlands,3/25/2020,357
+China,3/25/2020,3285
+Germany,3/25/2020,206
+Belgium,3/25/2020,178
+Iran,3/25/2020,2077
+United Kingdom,3/25/2020,466
+France,3/25/2020,1333
+Spain,3/25/2020,3647
+Italy,3/25/2020,7503
+US,3/25/2020,941
+Netherlands,3/26/2020,435
+China,3/26/2020,3291
+Germany,3/26/2020,267
+Belgium,3/26/2020,220
+Iran,3/26/2020,2234
+United Kingdom,3/26/2020,580
+France,3/26/2020,1698
+Spain,3/26/2020,4365
+Italy,3/26/2020,8215
+US,3/26/2020,1208
+Netherlands,3/27/2020,547
+China,3/27/2020,3296
+Germany,3/27/2020,342
+Belgium,3/27/2020,289
+Iran,3/27/2020,2378
+United Kingdom,3/27/2020,761
+France,3/27/2020,1997
+Spain,3/27/2020,5138
+Italy,3/27/2020,9134
+US,3/27/2020,1578
+Netherlands,3/28/2020,640
+China,3/28/2020,3299
+Germany,3/28/2020,433
+Belgium,3/28/2020,353
+Iran,3/28/2020,2517
+United Kingdom,3/28/2020,1021
+France,3/28/2020,2317
+Spain,3/28/2020,5982
+Italy,3/28/2020,10023
+US,3/28/2020,2178
+Netherlands,3/29/2020,772
+China,3/29/2020,3304
+Germany,3/29/2020,533
+Belgium,3/29/2020,431
+Iran,3/29/2020,2640
+United Kingdom,3/29/2020,1231
+France,3/29/2020,2611
+Spain,3/29/2020,6803
+Italy,3/29/2020,10779
+US,3/29/2020,2562
+Netherlands,3/30/2020,865
+China,3/30/2020,3308
+Germany,3/30/2020,645
+Belgium,3/30/2020,513
+Iran,3/30/2020,2757
+United Kingdom,3/30/2020,1411
+France,3/30/2020,3030
+Spain,3/30/2020,7716
+Italy,3/30/2020,11591
+US,3/30/2020,3099
+Netherlands,3/31/2020,1040
+China,3/31/2020,3309
+Germany,3/31/2020,775
+Belgium,3/31/2020,705
+Iran,3/31/2020,2898
+United Kingdom,3/31/2020,1793
+France,3/31/2020,3532
+Spain,3/31/2020,8464
+Italy,3/31/2020,12428
+US,3/31/2020,4034
+Netherlands,4/1/2020,1175
+China,4/1/2020,3316
+Germany,4/1/2020,920
+Belgium,4/1/2020,828
+Iran,4/1/2020,3036
+United Kingdom,4/1/2020,2357
+France,4/1/2020,4414
+Spain,4/1/2020,9387
+Italy,4/1/2020,13155
+US,4/1/2020,4989
+Netherlands,4/2/2020,1341
+China,4/2/2020,3322
+Germany,4/2/2020,1107
+Belgium,4/2/2020,1011
+Iran,4/2/2020,3160
+United Kingdom,4/2/2020,2926
+France,4/2/2020,5398
+Spain,4/2/2020,10348
+Italy,4/2/2020,13915
+US,4/2/2020,6288
+Netherlands,4/3/2020,1490
+China,4/3/2020,3326
+Germany,4/3/2020,1275
+Belgium,4/3/2020,1143
+Iran,4/3/2020,3294
+United Kingdom,4/3/2020,3611
+France,4/3/2020,6520
+Spain,4/3/2020,11198
+Italy,4/3/2020,14681
+US,4/3/2020,7411
+Netherlands,4/4/2020,1656
+China,4/4/2020,3330
+Germany,4/4/2020,1444
+Belgium,4/4/2020,1283
+Iran,4/4/2020,3452
+United Kingdom,4/4/2020,4320
+France,4/4/2020,7574
+Spain,4/4/2020,11947
+Italy,4/4/2020,15362
+US,4/4/2020,8383
+Netherlands,4/5/2020,1771
+China,4/5/2020,3333
+Germany,4/5/2020,1584
+Belgium,4/5/2020,1447
+Iran,4/5/2020,3603
+United Kingdom,4/5/2020,4943
+France,4/5/2020,8093
+Spain,4/5/2020,12641
+Italy,4/5/2020,15887
+US,4/5/2020,9486
+Netherlands,4/6/2020,1874
+China,4/6/2020,3335
+Germany,4/6/2020,1810
+Belgium,4/6/2020,1632
+Iran,4/6/2020,3739
+United Kingdom,4/6/2020,5385
+France,4/6/2020,8926
+Spain,4/6/2020,13341
+Italy,4/6/2020,16523
+US,4/6/2020,10780
+Netherlands,4/7/2020,2108
+China,4/7/2020,3335
+Germany,4/7/2020,2016
+Belgium,4/7/2020,2035
+Iran,4/7/2020,3872
+United Kingdom,4/7/2020,6171
+France,4/7/2020,10343
+Spain,4/7/2020,14045
+Italy,4/7/2020,17127
+US,4/7/2020,12719
+Netherlands,4/8/2020,2255
+China,4/8/2020,3337
+Germany,4/8/2020,2349
+Belgium,4/8/2020,2240
+Iran,4/8/2020,3993
+United Kingdom,4/8/2020,7111
+France,4/8/2020,10887
+Spain,4/8/2020,14792
+Italy,4/8/2020,17669
+US,4/8/2020,14692
+Netherlands,4/9/2020,2403
+China,4/9/2020,3339
+Germany,4/9/2020,2607
+Belgium,4/9/2020,2523
+Iran,4/9/2020,4110
+United Kingdom,4/9/2020,7993
+France,4/9/2020,12228
+Spain,4/9/2020,15447
+Italy,4/9/2020,18279
+US,4/9/2020,16475
+Netherlands,4/10/2020,2520
+China,4/10/2020,3340
+Germany,4/10/2020,2767
+Belgium,4/10/2020,3019
+Iran,4/10/2020,4232
+United Kingdom,4/10/2020,8974
+France,4/10/2020,13215
+Spain,4/10/2020,16081
+Italy,4/10/2020,18849
+US,4/10/2020,18583
+Netherlands,4/11/2020,2653
+China,4/11/2020,3343
+Germany,4/11/2020,2736
+Belgium,4/11/2020,3346
+Iran,4/11/2020,4357
+United Kingdom,4/11/2020,9892
+France,4/11/2020,13851
+Spain,4/11/2020,16606
+Italy,4/11/2020,19468
+US,4/11/2020,20460
+Netherlands,4/12/2020,2747
+China,4/12/2020,3343
+Germany,4/12/2020,3022
+Belgium,4/12/2020,3600
+Iran,4/12/2020,4474
+United Kingdom,4/12/2020,10629
+France,4/12/2020,14412
+Spain,4/12/2020,17209
+Italy,4/12/2020,19899
+US,4/12/2020,22020
+Netherlands,4/13/2020,2833
+China,4/13/2020,3345
+Germany,4/13/2020,3194
+Belgium,4/13/2020,3903
+Iran,4/13/2020,4585
+United Kingdom,4/13/2020,11347
+France,4/13/2020,14986
+Spain,4/13/2020,17756
+Italy,4/13/2020,20465
+US,4/13/2020,23529
+Netherlands,4/14/2020,2955
+China,4/14/2020,3345
+Germany,4/14/2020,3294
+Belgium,4/14/2020,4157
+Iran,4/14/2020,4683
+United Kingdom,4/14/2020,12129
+France,4/14/2020,15748
+Spain,4/14/2020,18056
+Italy,4/14/2020,21067
+US,4/14/2020,25832
+Netherlands,4/15/2020,3145
+China,4/15/2020,3346
+Germany,4/15/2020,3804
+Belgium,4/15/2020,4440
+Iran,4/15/2020,4777
+United Kingdom,4/15/2020,12894
+France,4/15/2020,17188
+Spain,4/15/2020,18708
+Italy,4/15/2020,21645
+US,4/15/2020,28326
+Netherlands,4/16/2020,3327
+China,4/16/2020,3346
+Germany,4/16/2020,4052
+Belgium,4/16/2020,4857
+Iran,4/16/2020,4869
+United Kingdom,4/16/2020,13759
+France,4/16/2020,17941
+Spain,4/16/2020,19315
+Italy,4/16/2020,22170
+US,4/16/2020,32917
